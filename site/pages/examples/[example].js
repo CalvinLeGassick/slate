@@ -24,6 +24,7 @@ import PlainText from '../../examples/plaintext'
 import ReadOnly from '../../examples/read-only'
 import RichText from '../../examples/richtext'
 import SearchHighlighting from '../../examples/search-highlighting'
+import SwapAnimation from "../../examples/swap-animation"
 import Tables from '../../examples/tables'
 
 const EXAMPLES = [
@@ -43,6 +44,7 @@ const EXAMPLES = [
   ['Read-only', ReadOnly, 'read-only'],
   ['Rich Text', RichText, 'richtext'],
   ['Search Highlighting', SearchHighlighting, 'search-highlighting'],
+  ['Swap Animation', SwapAnimation, 'swap-animation'],
   ['Tables', Tables, 'tables'],
 ]
 
